@@ -14,12 +14,10 @@
 * [x] Cleanup.
 * [x] Install material ui.
 * [x] Install material ui icons.
-
 * [x] get icons:https://material-ui.com/components/material-icons/
 * [x] Header Component.
 * [x] Sidebar Component.
-* [x] RecommmendedVideos Component.
-* [x] Youtube Search
-* [x] Setup Firebase Firestore database.
+* [x] MainPage Component.
+* [x] ChannelRow Component
 * [x] Deploy to Firebase hosting 🚀
-* [x] Testing 👉 URL:https://clone-211c7.web.app/search/j
+* [x] Testing 👉 URL:https://herwan-5976b.web.app/
